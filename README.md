@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello everyone! 😃</h1>
-<img align="right" alt="Coding" width="400" src="[[[https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966](https://media.giphy.com/media/tCNQTWfa9mP73b6iNM/giphy.gif)](https://i.giphy.com/tCNQTWfa9mP73b6iNM.webp)](https://www.google.com/search?sca_esv=2cd9eddb9e033581&sxsrf=ADLYWIKkhc6R7z0ove7Kv_PlpcHlT_uImA:1729934146762&q=coding+gif+for+github&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wfsFlEVaMALnJjEZtYpSTLmUV5oGF4fnHSG0LbvLjVKUV0IWX-9yHknaXpsINbxRPK_rD0aGBXyqo-cUa2T6ZySNg4d875n-vXkSutq7bWvEyjXRQuBfWktFSUkoyoeiqhKHNE-BZiSEnsk93CG_Dl8i5jDTw&sa=X&ved=2ahUKEwjWyLXy2quJAxXMSWwGHZQmKrkQtKgLegQIExAB&biw=1536&bih=730&dpr=1.25#vhid=tkD88475CNPNmM&vssid=mosaic)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 # 💫 About Me:
 👋 Hi, I’m @ABHISIKTAcommits<br>👀 I’m interested in Coding & writing.<br>🌱 I’m currently learning HTML,CSS...<br>📫 Reach me abhisiktaghosh2@gmail.com<br>😄 Pronouns: she/her.
 
