@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello everyone! 😃</h1>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966](https://media.giphy.com/media/tCNQTWfa9mP73b6iNM/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966](https://media.giphy.com/media/tCNQTWfa9mP73b6iNM/giphy.gif)](https://i.giphy.com/tCNQTWfa9mP73b6iNM.webp)">
 # 💫 About Me:
 👋 Hi, I’m @ABHISIKTAcommits<br>👀 I’m interested in Coding & writing.<br>🌱 I’m currently learning HTML,CSS...<br>📫 Reach me abhisiktaghosh2@gmail.com<br>😄 Pronouns: she/her.
 
