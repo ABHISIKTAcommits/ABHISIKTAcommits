@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello everyone! 😃</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-# 💫 About Me:
+ About Me:
 👋 Hi, I’m @ABHISIKTAcommits<br>👀 I’m interested in Coding & writing.<br>🌱 I’m currently learning HTML,CSS...<br>📫 Reach me abhisiktaghosh2@gmail.com<br>😄 Pronouns: she/her.
 
 
@@ -15,16 +15,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ABHISIKTAcommits&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ABHISIKTAcommits&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+## 🪶 GSSoC(24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
 </div>
-</details>
+
+---
+[![](https://visitcount.itsvg.in/api?id=ABHISIKTAcommits&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
