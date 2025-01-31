@@ -6,7 +6,8 @@ About Me:
 
 
 # 💻 Tech Stack:
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+<img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/><img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/> <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo"/> <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ABHISIKTAcommits&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ABHISIKTAcommits&theme=neon&hide_border=false)<br/>
