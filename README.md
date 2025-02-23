@@ -6,7 +6,7 @@ About Me:
 
 
 # 💻 Tech Stack:
-<img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/><img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/> <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo"/> <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/>
+<img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/><img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/> <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo"/> <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/><img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Logo"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ABHISIKTAcommits&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
