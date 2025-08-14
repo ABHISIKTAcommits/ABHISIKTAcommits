@@ -2,11 +2,14 @@
 <h1 align="center">Hello everyone! 😃</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 About Me:
-👋 Hi, I’m @ABHISIKTAcommits<br>👀 I’m interested in Coding & writing.<br>🌱 I’m currently learning HTML,CSS...<br>📫 Reach me abhisiktaghosh2@gmail.com<br>😄 Pronouns: she/her.
+👋 Hi, I’m Abhisikta <br>👀 I’m interested in Coding & writing.<br>📫 Reach me abhisiktaghosh2@gmail.com
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisikta-ghosh-b794b5319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # 💻 Tech Stack:
-<img title="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/><img title="HTML" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Logo"/> <img title="CSS" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Logo"/> <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Logo"/><img title="C" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Logo"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23007ACC?style=for-the-badge&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ABHISIKTAcommits&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
